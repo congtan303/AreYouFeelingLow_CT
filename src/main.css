@@ -1,0 +1,51 @@
+body{
+    background-color: #E7235E;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+.feeling__title{
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
+
+.emoji {
+    text-align: center;
+}
+
+.emoji__img{
+    width: 10%;
+    cursor: pointer;
+}
+
+#compliment{
+    font-size: 1.8rem;
+    margin-top: 60px;
+    
+}
+
+footer{
+    text-align: center;
+    
+    position: fixed;
+    bottom: 3px;
+    width: 100%;
+    min-height: 50px;
+    
+}
+
+.goodbye {
+       font-weight: 400;
+        font-size: 1.4rem;
+}
+
+.github{
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: white;
+}
+
